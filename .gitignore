@@ -1,0 +1,17 @@
+# Environnement Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers temporaires
+*.log
+.DS_Store
+
+# Variables sensibles
+.env
+
+# Fichiers générés
